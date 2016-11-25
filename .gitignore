@@ -1,12 +1,4 @@
-*.class
-target/classes/META-INF/maven/cn.logow.util/util-bankcard/pom.xml
-*.MF
-target/classes/cn/logow/util/bankcard/.key
-*.bin
-target/classes/META-INF/maven/cn.logow.util/util-bankcard/pom.properties
-*.properties
-.settings/org.eclipse.core.resources.prefs
-*.project
-.settings/org.eclipse.m2e.core.prefs
+
+/target/
+
 *.prefs
-*.classpath
